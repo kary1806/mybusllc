@@ -1,0 +1,25 @@
+.icon_style{
+	font-size: 50px;
+	color:#a1d038;
+}
+
+.btn_sucess{
+	background: #56baed;
+	color: white;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
